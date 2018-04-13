@@ -5,3 +5,6 @@ MEDIO
  - 
  - 
 nuevo
+PILARES DE LA TIERRA
+X+Y
+X-Y
